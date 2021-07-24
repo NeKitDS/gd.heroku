@@ -1,3 +1,2 @@
 https://github.com/nekitdev/gd.py/archive/develop.zip#egg=gd.py[prelude]
 https://github.com/nekitdev/nekit.dev/archive/master.zip#egg=nekit.dev
-https://github.com/nekitdev/gd.bot/archive/master.zip#egg=gd.bot
